@@ -1,0 +1,328 @@
+{
+  "$type": "UAssetAPI.UAsset, UAssetAPI",
+  "Info": "Serialized with UAssetAPI 1.1.0 (8b8687a)",
+  "NameMap": [
+    "/Game/Mods/VoidTogether/Maps/Assets/concreteceiling003a",
+    "/Script/CoreUObject",
+    "/Script/Engine",
+    "Class",
+    "concreteceiling003a",
+    "Default__Texture2D",
+    "Guid",
+    "ImportedSize",
+    "IntPoint",
+    "LightingGuid",
+    "None",
+    "Package",
+    "PF_DXT1",
+    "StructProperty",
+    "Texture2D"
+  ],
+  "CustomSerializationFlags": "None",
+  "UseSeparateBulkDataFiles": true,
+  "IsUnversioned": true,
+  "FileVersionLicenseeUE": 0,
+  "ObjectVersion": "VER_UE4_CORRECT_LICENSEE_FLAG",
+  "ObjectVersionUE5": "UNKNOWN",
+  "CustomVersionContainer": [
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{375EC13C-06E4-48FB-B500-84F0262A717E}",
+      "FriendlyName": "FCoreObjectVersion",
+      "Version": 4,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{E4B068ED-F494-42E9-A231-DA0B2E46BB41}",
+      "FriendlyName": "FEditorObjectVersion",
+      "Version": 40,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{CFFC743F-43B0-4480-9391-14DF171D2073}",
+      "FriendlyName": "FFrameworkObjectVersion",
+      "Version": 37,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{7B5AE74C-D270-4C10-A958-57980B212A5A}",
+      "FriendlyName": "FSequencerObjectVersion",
+      "Version": 13,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{29E575DD-E0A3-4627-9D10-D276232CDCEA}",
+      "FriendlyName": "FAnimPhysObjectVersion",
+      "Version": 17,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{601D1886-AC64-4F84-AA16-D3DE0DEAC7D6}",
+      "FriendlyName": "FFortniteMainBranchObjectVersion",
+      "Version": 47,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC}",
+      "FriendlyName": "FNiagaraObjectVersion",
+      "Version": 1,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{717F9EE7-E9B0-493A-88B3-91321B388107}",
+      "FriendlyName": "FAssetRegistryVersion",
+      "Version": 17,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{9C54D522-A826-4FBE-9421-074661B482D0}",
+      "FriendlyName": "FReleaseObjectVersion",
+      "Version": 43,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{E7086368-6B23-4C58-8439-1B7016265E91}",
+      "FriendlyName": "FFortniteReleaseBranchCustomObjectVersion",
+      "Version": 1,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{D89B5E42-24BD-4D46-8412-ACA8DF641779}",
+      "FriendlyName": "FUE5ReleaseStreamObjectVersion",
+      "Version": 0,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{FCF57AFA-5076-4283-B9A9-E658FFA02D32}",
+      "FriendlyName": "FNiagaraCustomVersion",
+      "Version": 68,
+      "IsSerialized": false
+    }
+  ],
+  "SoftObjectPathList": null,
+  "GatherableTextData": null,
+  "Exports": [
+    {
+      "$type": "UAssetAPI.ExportTypes.NormalExport, UAssetAPI",
+      "Data": [
+        {
+          "$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI",
+          "StructType": "IntPoint",
+          "SerializeNone": true,
+          "StructGUID": "{00000000-0000-0000-0000-000000000000}",
+          "SerializationControl": "NoExtension",
+          "Operation": "None",
+          "Name": "ImportedSize",
+          "ArrayIndex": 0,
+          "PropertyGuid": null,
+          "IsZero": false,
+          "PropertyTagFlags": "None",
+          "PropertyTypeName": null,
+          "PropertyTagExtensions": "NoExtension",
+          "Value": [
+            {
+              "$type": "UAssetAPI.PropertyTypes.Structs.IntPointPropertyData, UAssetAPI",
+              "Name": "ImportedSize",
+              "ArrayIndex": 0,
+              "PropertyGuid": null,
+              "IsZero": false,
+              "PropertyTagFlags": "None",
+              "PropertyTypeName": null,
+              "PropertyTagExtensions": "NoExtension",
+              "Value": [
+                512,
+                512
+              ]
+            }
+          ]
+        },
+        {
+          "$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI",
+          "StructType": "Guid",
+          "SerializeNone": true,
+          "StructGUID": "{00000000-0000-0000-0000-000000000000}",
+          "SerializationControl": "NoExtension",
+          "Operation": "None",
+          "Name": "LightingGuid",
+          "ArrayIndex": 0,
+          "PropertyGuid": null,
+          "IsZero": false,
+          "PropertyTagFlags": "None",
+          "PropertyTypeName": null,
+          "PropertyTagExtensions": "NoExtension",
+          "Value": [
+            {
+              "$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI",
+              "Name": "LightingGuid",
+              "ArrayIndex": 0,
+              "PropertyGuid": null,
+              "IsZero": false,
+              "PropertyTagFlags": "None",
+              "PropertyTypeName": null,
+              "PropertyTagExtensions": "NoExtension",
+              "Value": "{9EC3AFD3-490C-DF6E-B374-0796B5B749A1}"
+            }
+          ]
+        }
+      ],
+      "ObjectGuid": null,
+      "SerializationControl": "NoExtension",
+      "Operation": "None",
+      "HasLeadingFourNullBytes": false,
+      "ObjectName": "concreteceiling003a",
+      "OuterIndex": 0,
+      "ClassIndex": -1,
+      "SuperIndex": 0,
+      "TemplateIndex": -3,
+      "ObjectFlags": "RF_Public, RF_Standalone",
+      "SerialSize": 3306,
+      "SerialOffset": 743,
+      "ScriptSerializationStartOffset": 0,
+      "ScriptSerializationEndOffset": 0,
+      "bForcedExport": false,
+      "bNotForClient": false,
+      "bNotForServer": false,
+      "PackageGuid": "{00000000-0000-0000-0000-000000000000}",
+      "IsInheritedInstance": false,
+      "PackageFlags": "PKG_None",
+      "bNotAlwaysLoadedForEditorGame": true,
+      "bIsAsset": true,
+      "GeneratePublicHash": false,
+      "SerializationBeforeSerializationDependencies": [],
+      "CreateBeforeSerializationDependencies": [],
+      "SerializationBeforeCreateDependencies": [
+        -1,
+        -3
+      ],
+      "CreateBeforeCreateDependencies": [],
+      "Extras": "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"
+    }
+  ],
+  "SearchableNames": null,
+  "ImportTypeHierarchies": null,
+  "MetaData": null,
+  "Thumbnails": null,
+  "WorldTileInfo": null,
+  "AppendedNullBytes": 0,
+  "OtherAssetsFailedToAccess": [],
+  "LegacyFileVersion": -7,
+  "DataResourceVersion": "Invalid",
+  "DataResources": null,
+  "UsesEventDrivenLoader": true,
+  "WillSerializeNameHashes": true,
+  "Imports": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Texture2D",
+      "OuterIndex": -2,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "/Script/Engine",
+      "OuterIndex": 0,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__Texture2D",
+      "OuterIndex": -2,
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "Texture2D",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "DependsMap": [
+    []
+  ],
+  "SoftPackageReferenceList": null,
+  "AssetRegistryDependencyDataOffset": -1,
+  "AssetRegistryRecords": [],
+  "ImportBits": null,
+  "SoftPackageBits": null,
+  "ExtraPackageDependencies": null,
+  "BulkData": null,
+  "AdditionalFiles": "wYMqng==",
+  "Trailer": null,
+  "ValorantGarbageData": null,
+  "SeaOfThievesGarbageData": null,
+  "Generations": [
+    {
+      "$type": "UAssetAPI.FGenerationInfo, UAssetAPI",
+      "ExportCount": 1,
+      "NameCount": 15
+    }
+  ],
+  "PackageGuid": "{079AA105-4800-F895-6FA2-4089AFEDC20F}",
+  "PersistentGuid": "{00000000-0000-0000-0000-000000000000}",
+  "RecordedEngineVersion": {
+    "$type": "UAssetAPI.FEngineVersion, UAssetAPI",
+    "Major": 0,
+    "Minor": 0,
+    "Patch": 0,
+    "Changelist": 0,
+    "Branch": null
+  },
+  "RecordedCompatibleWithEngineVersion": {
+    "$type": "UAssetAPI.FEngineVersion, UAssetAPI",
+    "Major": 0,
+    "Minor": 0,
+    "Patch": 0,
+    "Changelist": 0,
+    "Branch": null
+  },
+  "ChunkIDs": [
+    55
+  ],
+  "PackageSource": 3491586936,
+  "FolderName": "None",
+  "LocalizationId": null,
+  "SoftObjectPathsCount": 0,
+  "SoftObjectPathsOffset": 0,
+  "SearchableNamesOffset": 0,
+  "ThumbnailTableOffset": 0,
+  "ImportTypeHierarchiesCount": 0,
+  "ImportTypeHierarchiesOffset": 0,
+  "SavedHash": null,
+  "CompressionFlags": 0,
+  "AdditionalPackagesToCook": [],
+  "NamesReferencedFromExportDataCount": 15,
+  "PayloadTocOffset": -1,
+  "DataResourceOffset": -1,
+  "doWeHaveAssetRegistryData": true,
+  "doWeHaveWorldTileInfo": false,
+  "PackageFlags": "PKG_FilterEditorOnly",
+  "HasUnversionedProperties": false,
+  "IsFilterEditorOnly": true,
+  "IsPreDependencyFormat": true
+}

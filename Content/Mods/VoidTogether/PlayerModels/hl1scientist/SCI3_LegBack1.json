@@ -1,0 +1,341 @@
+{
+  "$type": "UAssetAPI.UAsset, UAssetAPI",
+  "Info": "Serialized with UAssetAPI 1.1.0 (8b8687a)",
+  "NameMap": [
+    "/Game/Mods/VoidTogether/PlayerModels/hl1scientist/SCI3_LegBack1",
+    "/Script/CoreUObject",
+    "/Script/Engine",
+    "BoolProperty",
+    "Class",
+    "Default__Texture2D",
+    "Guid",
+    "ImportedSize",
+    "IntPoint",
+    "LightingGuid",
+    "NeverStream",
+    "None",
+    "Package",
+    "PF_B8G8R8A8",
+    "SCI3_LegBack1",
+    "StructProperty",
+    "Texture2D"
+  ],
+  "CustomSerializationFlags": "None",
+  "UseSeparateBulkDataFiles": true,
+  "IsUnversioned": true,
+  "FileVersionLicenseeUE": 0,
+  "ObjectVersion": "VER_UE4_CORRECT_LICENSEE_FLAG",
+  "ObjectVersionUE5": "UNKNOWN",
+  "CustomVersionContainer": [
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{375EC13C-06E4-48FB-B500-84F0262A717E}",
+      "FriendlyName": "FCoreObjectVersion",
+      "Version": 4,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{E4B068ED-F494-42E9-A231-DA0B2E46BB41}",
+      "FriendlyName": "FEditorObjectVersion",
+      "Version": 40,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{CFFC743F-43B0-4480-9391-14DF171D2073}",
+      "FriendlyName": "FFrameworkObjectVersion",
+      "Version": 37,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{7B5AE74C-D270-4C10-A958-57980B212A5A}",
+      "FriendlyName": "FSequencerObjectVersion",
+      "Version": 13,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{29E575DD-E0A3-4627-9D10-D276232CDCEA}",
+      "FriendlyName": "FAnimPhysObjectVersion",
+      "Version": 17,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{601D1886-AC64-4F84-AA16-D3DE0DEAC7D6}",
+      "FriendlyName": "FFortniteMainBranchObjectVersion",
+      "Version": 47,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC}",
+      "FriendlyName": "FNiagaraObjectVersion",
+      "Version": 1,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{717F9EE7-E9B0-493A-88B3-91321B388107}",
+      "FriendlyName": "FAssetRegistryVersion",
+      "Version": 17,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{9C54D522-A826-4FBE-9421-074661B482D0}",
+      "FriendlyName": "FReleaseObjectVersion",
+      "Version": 43,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{E7086368-6B23-4C58-8439-1B7016265E91}",
+      "FriendlyName": "FFortniteReleaseBranchCustomObjectVersion",
+      "Version": 1,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{D89B5E42-24BD-4D46-8412-ACA8DF641779}",
+      "FriendlyName": "FUE5ReleaseStreamObjectVersion",
+      "Version": 0,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{FCF57AFA-5076-4283-B9A9-E658FFA02D32}",
+      "FriendlyName": "FNiagaraCustomVersion",
+      "Version": 68,
+      "IsSerialized": false
+    }
+  ],
+  "SoftObjectPathList": null,
+  "GatherableTextData": null,
+  "Exports": [
+    {
+      "$type": "UAssetAPI.ExportTypes.NormalExport, UAssetAPI",
+      "Data": [
+        {
+          "$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI",
+          "StructType": "IntPoint",
+          "SerializeNone": true,
+          "StructGUID": "{00000000-0000-0000-0000-000000000000}",
+          "SerializationControl": "NoExtension",
+          "Operation": "None",
+          "Name": "ImportedSize",
+          "ArrayIndex": 0,
+          "PropertyGuid": null,
+          "IsZero": false,
+          "PropertyTagFlags": "None",
+          "PropertyTypeName": null,
+          "PropertyTagExtensions": "NoExtension",
+          "Value": [
+            {
+              "$type": "UAssetAPI.PropertyTypes.Structs.IntPointPropertyData, UAssetAPI",
+              "Name": "ImportedSize",
+              "ArrayIndex": 0,
+              "PropertyGuid": null,
+              "IsZero": false,
+              "PropertyTagFlags": "None",
+              "PropertyTypeName": null,
+              "PropertyTagExtensions": "NoExtension",
+              "Value": [
+                28,
+                74
+              ]
+            }
+          ]
+        },
+        {
+          "$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI",
+          "StructType": "Guid",
+          "SerializeNone": true,
+          "StructGUID": "{00000000-0000-0000-0000-000000000000}",
+          "SerializationControl": "NoExtension",
+          "Operation": "None",
+          "Name": "LightingGuid",
+          "ArrayIndex": 0,
+          "PropertyGuid": null,
+          "IsZero": false,
+          "PropertyTagFlags": "None",
+          "PropertyTypeName": null,
+          "PropertyTagExtensions": "NoExtension",
+          "Value": [
+            {
+              "$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI",
+              "Name": "LightingGuid",
+              "ArrayIndex": 0,
+              "PropertyGuid": null,
+              "IsZero": false,
+              "PropertyTagFlags": "None",
+              "PropertyTypeName": null,
+              "PropertyTagExtensions": "NoExtension",
+              "Value": "{5CC4383C-449A-7568-FC8B-F8A182CE0544}"
+            }
+          ]
+        },
+        {
+          "$type": "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI",
+          "Name": "NeverStream",
+          "ArrayIndex": 0,
+          "PropertyGuid": null,
+          "IsZero": false,
+          "PropertyTagFlags": "None",
+          "PropertyTypeName": null,
+          "PropertyTagExtensions": "NoExtension",
+          "Value": true
+        }
+      ],
+      "ObjectGuid": null,
+      "SerializationControl": "NoExtension",
+      "Operation": "None",
+      "HasLeadingFourNullBytes": false,
+      "ObjectName": "SCI3_LegBack1",
+      "OuterIndex": 0,
+      "ClassIndex": -1,
+      "SuperIndex": 0,
+      "TemplateIndex": -3,
+      "ObjectFlags": "RF_Public, RF_Standalone",
+      "SerialSize": 8556,
+      "SerialOffset": 790,
+      "ScriptSerializationStartOffset": 0,
+      "ScriptSerializationEndOffset": 0,
+      "bForcedExport": false,
+      "bNotForClient": false,
+      "bNotForServer": false,
+      "PackageGuid": "{00000000-0000-0000-0000-000000000000}",
+      "IsInheritedInstance": false,
+      "PackageFlags": "PKG_None",
+      "bNotAlwaysLoadedForEditorGame": true,
+      "bIsAsset": true,
+      "GeneratePublicHash": false,
+      "SerializationBeforeSerializationDependencies": [],
+      "CreateBeforeSerializationDependencies": [],
+      "SerializationBeforeCreateDependencies": [
+        -1,
+        -3
+      ],
+      "CreateBeforeCreateDependencies": [],
+      "Extras": "AQABAAEAAAANAAAAAAAAAHokAAAAAAAAHAAAAEoAAAABAAAADAAAAFBGX0I4RzhSOEE4AAAAAAABAAAAAQAAAEgAAABgIAAAYCAAAAoEAAAAAAAAxsbG/8bGxv/Ozs7/zs7O/87Ozv/Ozs7/1tbW/9bW1v/Ozs7/zs7O/8bGxv/Gxsb/xsbG/729vf+9vb3/tbW1/729vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gzsb/xsbG/87Ozv/Ozs7/xsbG/8bGxv/Gxsb/vcbG/729vf+9vb3/vb29/7W1tf+9vb3/xr29/8a9vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxs7/xsbG/8bGxv/Gxsb/zs7O/8bGxv/Gxsb/xsbG/8a9vf+9vb3/vb29/729vf+9vb3/xsbG/8a9vf/Gvb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8a9vf/Gvb3/vb29/8a9vf/Gvb3/xr29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/97e3v/e3t7/3t7e/97e3v/n5+f/5+fn/+fn5//v7+//1s7O/729vf/e3t7/5+fn/+/v7//n5+f/5+fn/97e3v/e3t7/3t7e/87Ozv+1tbX/vb29/729vf+1tbX/paWl/5ycnP+lpaX/5+fn/97e3v/e3t7/3tbW/97e3v/n5+f/5+fn/+fn5//v5+f/9+/v/9bOzv+9vb3/3t7e/+fn5//n5+f/5+fn/+fn5//n5+f/5+fn/9bW1v/Gxsb/vb29/729vf+9vb3/ra2t/5ycnP+cnJz/paWl/+fn5//e3t7/3t7e/9bW1v/e3t7/5+fn/+fn5//n5+f/7+fn//fv7//W1tb/vb29/97e3v/n5+f/5+fn/+fn5//n5+f/5+fn/97e3v/Ozs7/xsbG/8bGxv+9vb3/tbW1/5ycnP+UlJT/paWl/62trf/e3t7/3t7e/8bGxv/Gxsb/1tbW/97e3v/n5+f/5+fn/+fn5//v7+//3tbW/8bGxv/e3t7/5+fn/+fn5//n5+f/5+fn/+fn5//W1tb/xsbG/8bGxv/Gxsb/tbW1/6Wlpf+cnJz/nJyc/6Wlpf+tra3/vb29/8bGxv/Gxsb/xsbG/729vf/Gxsb/xsbG/8bGxv/Oxsb/zsbG/8bGxv/O1tb/3t7e/+fn5//n5+f/5+fn/+fn5//e3t7/1tbW/87Ozv/Ozs7/vb29/62trf+cnJz/nJyc/5ycnP+lpaX/ra2t/8bGxv/Gxsb/xsbG/8bGxv+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/1tbW/97e3v/n5+f/5+fn/+fn5//n5+f/1tbW/9bW1v/Ozs7/zsbG/7W1tf+lpaX/nJyc/5ycnP+lpaX/ra2t/7W1tf/Gxsb/xsbG/8bGxv/Gxs7/xsbG/8bGxv/Ozs7/1tbW/87Ozv/Ozs7/1tbW/9bW1v/e3t7/5+fn/+fn5//n5+f/3t7e/9bW1v/W1tb/zs7O/8a9xv+tra3/paWl/6Wlpf+lpaX/paWt/62trf+1tbX/xsbG/8bGxv/Gxsb/zsbO/8bGxv/Gxsb/zs7O/9bW1v/W1tb/1tbW/9bW1v/e3t7/3t7e/+fn5//e3t7/3t7e/97e3v/W1tb/1tbW/87Ozv+9vb3/ra2t/6Wlpf+lpaX/paWl/62trf+1tbX/vb21/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/xsbG/87Ozv/W1tb/1tbW/9bW1v/e3t7/3t7e/97e3v/n5+f/3ufn/97e3v/e3t7/1tbW/9bW1v/Ozs7/tb29/62trf+lpaX/ra2t/62trf+tra3/vb21/729vf/Gxsb/xsbG/8bGxv/Gxsb/zs7O/8bGxv/Ozs7/1tbW/97e3v/W1tb/3t7e/97e3v/n5+f/5+fn/+fn5//e3t7/3t7e/9bW1v/W1tb/xsbG/7W1tf+tra3/ra2t/62trf+tra3/tbW1/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/zs7O/97e3v/n5+f/3t7e/97e3v/n5+f/5+fn/+fn5//n5+f/3t7e/97e3v/W1tb/1tbW/8bGxv+1tbX/tbW1/7W1tf+tra3/ra2t/7W1tf+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/1tbW/87Ozv/e3tb/5+fn/97e3v/e3t7/5+fn/+fn5//v7+f/3t7e/97e3v/W1tb/3t7e/87Ozv+9vb3/tbW1/7W1tf+1tbX/ra2t/7W1tf+1tbX/vb29/729vf/Gxsb/xsbG/8bGxv/Gxsb/zs7O/9bW1v/W1tb/1tbW/+fn5//n5+f/3t7e/+fn5//n7+f/5+/n/97e3v/e3t7/1tbW/97e3v/Ozs7/vb29/7W1tf+1tbX/tbW1/7W1tf+tra3/tbW1/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/W1tb/1tbW/9bW1v/n5+f/5+fn/+fn5//n5+f/7+/v/+fn5//e3t7/1tbW/97e3v/W1tb/xsbG/729vf+9vb3/xsbG/729vf+9vb3/tbW1/729vf+9xsb/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/9bW1v/W1tb/5+fn/+fn5//n5+f/5+fn/+fv5//n5+f/1tbW/9bW1v/n3uf/1tbW/8bGxv+9vb3/vb29/9bW1v/Gxsb/vb29/7W1tf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/W1tb/3t7e/97e3v/n5+f/5+fn/+fn5//v7+f/3t7e/9bW1v/e3t7/3t7e/87Ozv/Gxsb/zs7O/97e3v/W1tb/xsbG/7W1tf+1tbX/vca9/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/1tbW/9bW1v/e3t7/5+fn/+fn5//n5+f/5+fn/9bW1v/W1tb/5+fn/97e3v/Ozs7/zs7O/9bW1v/e3t7/zs7O/729vf+1tbX/vb29/729vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/zs7O/9bW1v/e3t7/3t7e/+fn5//n5+f/5+fv/+fn5//W1tb/1tbW/97n5//W1tb/zs7O/9bW1v/e3t7/3t7e/8bGxv+1tbX/tbW1/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozsb/zs7O/9bW1v/W1tb/3t7e/97e3v/n5+f/5+fn/+/v7//e3t7/1tbW/97e3v/e3t7/1tbW/9bW1v/e3t7/3t7e/8bGxv+9vb3/tbW1/7W9tf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7G/87Ozv/W1tb/1tbW/97e3v/e597/5+fn/+/v7//n5+f/3t7e/9bW1v/n5+f/1t7e/97e3v/W1tb/1tbW/87Ozv+9vb3/vb29/7W1tf+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Oxv/Ozs7/zs7O/9bOzv/e3t7/5+fn/+fn5//v7+//5+fn/97W1v/W1tb/5+fe/9bW1v/W1tb/1tbW/9bW1v/Gxsb/vb29/7W1tf+9vbX/vb29/73Gxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/zs7O/87Ozv/Ozs7/3t7e/+fn5//n5+f/7+/v/+/v7//W1tb/3t7e/97e3v/W1tb/1tbW/97e3v/e3t7/zs7O/729vf+9vbX/vca9/73Gxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/zs7G/97e3v/n5+f/3t7e/+fn5//n5+f/3t7e/97e3v/W1tb/3t7e/97e3v/W1tb/3t7e/8bGxv+9vb3/vb29/73Gxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/zs7O/87Ozv/Ozs7/3t7e/+fn5//n5+f/5+fn/+fn5//n5+f/3t7e/97e3v/W1tb/1tbW/87Ozv/Gxsb/xsbG/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/ztbO/9bWzv/Ozs7/zs7O/9bW1v/n5+f/5+/n/+/n7//v7+//5+fn/97e3v/W1tb/zs7O/9bW1v/e3t7/1tbW/8bGxv+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/W1tb/zs7O/87Ozv/W1tb/5+fn/+fn5//v7+//7+/v/+/v7//n5+f/3t7e/97e3v/W1t7/3t7e/9bW1v/Gxsb/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/zs7O/87Ozv/W1tb/1t7e/+fn5//n5+f/3t7e/9bW1v/W1tb/zs7O/9bW1v/Ozs7/1tbW/87Ozv/Gxsb/vb29/729vf+9vcb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozsb/zs7O/87Wzv/Wztb/1tbW/9bW1v/Ozs7/zs7O/87Ozv/Ozs7/zs7O/87Ozv/Gxsb/xsbG/8bGxv/Ozs7/xsbG/729vf+9vb3/vcbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xr29/8bGxv/Gvcb/zs7O/87Ozv/W1s7/1s7W/9bO1v/W1tb/1tbW/97e3v/n3t7/3t7e/97e3v/e1t7/1tbW/87Ozv/Ozs7/xsbG/8bGxv+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/729vf/Gvcb/xsbG/87Ozv/Ozs7/ztbO/87O1v/Ozs7/1tbW/97e3v/e3t7/3t7e/97e3v/e3t7/3t7e/9bW1v/W1tb/zs7O/8bGxv+9vb3/vb29/729vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gvb3/xsbG/8bGxv/Ozs7/zs7O/87Wzv/Ozs7/zs7O/87Ozv/Gxsb/xsbG/87Ozv/Gxsb/zs7O/87Ozv/Gxsb/xsbG/8bGxv+9vb3/vb29/729vf+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xr29/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/zs7O/87Ozv/Ozs7/1tbW/9bW1v/e3t7/1tbW/9bW1v/W1tb/zs7O/8bGxv/Gxsb/vb29/729vf+9vb3/vb29/8a9vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/zs7O/9bW1v/W1tb/xsbG/8bGxv/Gxsb/xsbG/8bGxv+9vb3/xsbG/8bGxv/Gxsb/vb29/729vf+9vb3/vb29/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gvcb/xsbG/8bGxv/Ozs7/zs7O/9bOzv/W1tb/zs7O/8bGxv/Ozs7/zs7O/87Ozv/Ozs7/zs7O/87Ozv/Ozs7/xsbG/8bGxv+9vb3/vb29/729vf+9vb3/xsa9/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/W1tb/1tbW/87Ozv/W1tb/3t7e/97e3v/e3t7/1tbW/9bW3v/W1tb/1tbW/8bGxv+9vb3/vb29/729vf+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/1tbW/87Ozv/Gxsb/vb29/729vf+1tbX/vb29/729vf+9vb3/vb29/729vf+1tbX/tbW1/729vf+9vb3/vb29/729vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/1tbW/9bW1v/Ozs7/1tbW/9bW1v/Ozs7/1tbW/9bW1v/W1tb/1tbW/87Ozv/Gxsb/vb29/729vf+9vb3/vb29/73Gvf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/zs7O/9bW1v/Wzs7/zs7O/9bW1v/e3t7/3t7e/+fn5//n5+f/5+fn/+/v7//e3t7/1tbW/8bGxv/Gxsb/xsbG/729vf+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/zs7O/87Ozv/W1tb/1s7O/87Wzv/W1tb/zs7O/87Ozv/W1tb/1tbW/9bW1v/W1tb/zs7O/8bGxv/Gxsb/xsbG/8bGxv+9vb3/vb29/729vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/1tbO/9bW1v/W1tb/1tbW/9bW1v/W1tb/1tbW/9bW1v/W1tb/zs7O/87Ozv/Ozs7/zs7O/87Ozv/Gxsb/vb29/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Oxsb/1s7O/9bOzv/W1tb/1tbW/9bW1v/W1tb/3t7e/97e3v/n5+f/5+fn/+fn5//n5+f/3t7e/9bW1v/Ozs7/xsbG/8a9vf+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Oxsb/zs7O/87Ozv/W1tb/1tbW/9bW1v/W1tb/1s7W/9bW1v/e3t7/5+fn/+fn5//n5+f/3t7e/97e3v/Ozs7/zs7O/8bGxv+9vb3/vb29/729vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/1tbW/9bW1v/Ozs7/1tbW/9bW1v/e3t7/zs7O/9bW1v/Ozs7/1tbW/9bW1v/W1tb/zs7O/87Ozv/Gxsb/vb29/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/zs7O/9bW1v/W1tb/zs7O/9bW1v/e3t7/1tbW/9bW1v/n5+f/3t7e/+fn5//e3t7/1tbW/9bW1v/O1s7/xsbG/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/zs7O/87Ozv/Ozs7/zs7O/87Ozv/W1tb/3t7e/9bW1v/W1tb/5+fn/97e3v/n5+f/1tbW/9bW1v/W1tb/zs7O/8bGxv+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Oxsb/zs7O/87Ozv/Ozs7/zs7O/87Ozv/Ozs7/1tbW/97e3v/W1tb/3t7e/+fn5//e3t7/5+fn/9bW1v/W1tb/1tbW/87Ozv/Gxs7/vb29/8a9vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/zs7O/87Ozv/Ozs7/zs7O/97e3v/e3t7/1tbW/97e3v/n5+f/3t7e/+fn5//W1tb/1tbW/87Ozv/Ozs7/zs7O/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/zs7O/87Ozv/Ozs7/zs7O/9bW1v/e3t7/3t7e/9bW1v/n5+f/3t7e/97e3v/n5+f/3t7e/9bW1v/Ozs7/zs7O/87Ozv+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/zs7O/87Ozv/Ozs7/zs7O/87Ozv/W1tb/3t7e/97W1v/W1tb/5+fn/97e3v/e3t7/5+fn/97e3v/W1tb/1tbW/87Ozv/Ozs7/vb29/729vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/zs7O/87Ozv/Ozs7/1tbW/97e3v/W1tb/3t7e/+fn5//e3uf/3t7e/+fn5//e3t7/1tbW/9bW1v/Ozs7/zs7O/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/zs7O/87Ozv/Ozs7/1tbW/9be1v/e3t7/ztbO/97e3v/n5+f/3t7e/97e3v/n5+f/3t7e/9bW1v/W1tb/zs7O/87Ozv+9vb3/vb3G/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/8bGxv/Ozs7/zs7O/9bW1v/e3t7/3t7e/9bW1v/e3t7/5+fn/97e3v/e3t7/5+fn/97e3v/W1t7/1tbW/87Ozv/Gzs7/vb3G/729xv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/W1s7/3tbe/97e3v/Ozs7/3t7e/+fn5//e3t7/1tbW/+fn5//e1tb/3t7e/9bW1v/Ozs7/xsbG/8bGxv+9xsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/zs7O/9bW1v/W1tb/zs7O/97e3v/n5+f/3t7e/9bW1v/n5+f/1tbW/97W3v/W1tb/xs7G/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/zs7O/87Ozv/W1tb/1tbW/9bO1v/n3uf/5+fn/97e3v/e3t7/5+fn/9bW1v/W1t7/1tbW/87Ozv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/1tbW/9bW1v/Ozs7/597n/+fn5//e3t7/3t7e/97e3v/W1tb/1tbe/87Ozv/Ozs7/xsbG/73Gvf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/1tbW/9bW1v/Ozs7/1tbW/+fn5//n5+f/1t7e/9bW1v/e3t7/1tbW/9bW1v/Ozs7/xsbG/8bGxv+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/8bGxv/Ozs7/zs7O/9bW1v/W1tb/zs7O/9bW1v/n5+f/3ufn/9be3v/W1tb/1tbW/9bW1v/W1tb/zs7O/8bGxv/Gxsb/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/W1tb/1tbW/87Ozv/W1tb/5+fn/97e3v/W1tb/1tbW/9bW1v/W1tb/1tbW/87Ozv/Gxsb/vb29/729vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Oztb/1tbW/87Ozv/Ozs7/3t7e/+fn5//e3t7/3tbW/9bW3v/W1tb/1tbW/9bW1v/Ozs7/xsbG/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/zs7O/9bWzv/Ozs7/1tbW/97e3v/n5+f/3t7e/97W1v/e3t7/1tbW/9bW1v/Ozs7/zs7O/8bGxv+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/zs7O/9bW1v/e3t7/5+fn/97e3v/e3t7/1tbW/9bW1v/W1tb/zs7O/8bOzv/Gxsb/vb29/729xv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Ozs7/zs7O/8bGxv/W1tb/3t7e/97e3v/e3t7/1tbW/9bW1v/W1tb/zs7O/87Ozv/Gxsb/xsbG/729vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/ztbO/97e3v/e3t7/1t7e/9bW1v/W1tb/1tbW/87Ozv/Gxsb/xsbG/729vf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/zs7O/87Wzv/e3t7/1tbW/9bW1v/W1tb/1tbW/87Ozv/Oxsb/xsbG/8bGxv+9vb3/vb29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/87Ozv/Ozs7/zs7O/87Ozv/W1tb/1tbW/9bW1v/W1tb/zs7O/87Ozv/Ozs7/xsbG/8bGxv+9vb3/vb29/729vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/zs7O/87Ozv/Ozs7/zs7O/9bW1v/W1tb/zs7O/87Ozv/Gxsb/xsbG/8bGxv+9vb3/vb29/7W1tf+9vb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xs7G/8bGxv/Ozs7/zs7O/8bGxv/Gxsb/xsbG/73Gxv+9vb3/vb29/729vf+1tbX/vb29/8a9vf/Gvb3/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbO/8bGxv/Gxsb/xsbG/87Ozv/Gxsb/xsbG/8bGxv/Gvb3/vb29/729vf+9vb3/vb29/8bGxv/Gvb3/xr29/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gvb3/xr29/729vf/Gvb3/xr29/8a9vf/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv/Gxsb/xsbG/8bGxv8cAAAASgAAAAEAAAAAAAAACwAAAAAAAAA="
+    }
+  ],
+  "SearchableNames": null,
+  "ImportTypeHierarchies": null,
+  "MetaData": null,
+  "Thumbnails": null,
+  "WorldTileInfo": null,
+  "AppendedNullBytes": 0,
+  "OtherAssetsFailedToAccess": [],
+  "LegacyFileVersion": -7,
+  "DataResourceVersion": "Invalid",
+  "DataResources": null,
+  "UsesEventDrivenLoader": true,
+  "WillSerializeNameHashes": true,
+  "Imports": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Texture2D",
+      "OuterIndex": -2,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "/Script/Engine",
+      "OuterIndex": 0,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__Texture2D",
+      "OuterIndex": -2,
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "Texture2D",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "DependsMap": [
+    []
+  ],
+  "SoftPackageReferenceList": null,
+  "AssetRegistryDependencyDataOffset": -1,
+  "AssetRegistryRecords": [],
+  "ImportBits": null,
+  "SoftPackageBits": null,
+  "ExtraPackageDependencies": null,
+  "BulkData": null,
+  "AdditionalFiles": "wYMqng==",
+  "Trailer": null,
+  "ValorantGarbageData": null,
+  "SeaOfThievesGarbageData": null,
+  "Generations": [
+    {
+      "$type": "UAssetAPI.FGenerationInfo, UAssetAPI",
+      "ExportCount": 1,
+      "NameCount": 17
+    }
+  ],
+  "PackageGuid": "{16552C89-4AE4-634F-13CD-2595CA65CE2D}",
+  "PersistentGuid": "{00000000-0000-0000-0000-000000000000}",
+  "RecordedEngineVersion": {
+    "$type": "UAssetAPI.FEngineVersion, UAssetAPI",
+    "Major": 0,
+    "Minor": 0,
+    "Patch": 0,
+    "Changelist": 0,
+    "Branch": null
+  },
+  "RecordedCompatibleWithEngineVersion": {
+    "$type": "UAssetAPI.FEngineVersion, UAssetAPI",
+    "Major": 0,
+    "Minor": 0,
+    "Patch": 0,
+    "Changelist": 0,
+    "Branch": null
+  },
+  "ChunkIDs": [
+    55
+  ],
+  "PackageSource": 1014960722,
+  "FolderName": "None",
+  "LocalizationId": null,
+  "SoftObjectPathsCount": 0,
+  "SoftObjectPathsOffset": 0,
+  "SearchableNamesOffset": 0,
+  "ThumbnailTableOffset": 0,
+  "ImportTypeHierarchiesCount": 0,
+  "ImportTypeHierarchiesOffset": 0,
+  "SavedHash": null,
+  "CompressionFlags": 0,
+  "AdditionalPackagesToCook": [],
+  "NamesReferencedFromExportDataCount": 17,
+  "PayloadTocOffset": -1,
+  "DataResourceOffset": -1,
+  "doWeHaveAssetRegistryData": true,
+  "doWeHaveWorldTileInfo": false,
+  "PackageFlags": "PKG_FilterEditorOnly",
+  "HasUnversionedProperties": false,
+  "IsFilterEditorOnly": true,
+  "IsPreDependencyFormat": true
+}

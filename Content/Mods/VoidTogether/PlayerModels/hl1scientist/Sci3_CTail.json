@@ -1,0 +1,341 @@
+{
+  "$type": "UAssetAPI.UAsset, UAssetAPI",
+  "Info": "Serialized with UAssetAPI 1.1.0 (8b8687a)",
+  "NameMap": [
+    "/Game/Mods/VoidTogether/PlayerModels/hl1scientist/Sci3_CTail",
+    "/Script/CoreUObject",
+    "/Script/Engine",
+    "BoolProperty",
+    "Class",
+    "Default__Texture2D",
+    "Guid",
+    "ImportedSize",
+    "IntPoint",
+    "LightingGuid",
+    "NeverStream",
+    "None",
+    "Package",
+    "PF_B8G8R8A8",
+    "Sci3_CTail",
+    "StructProperty",
+    "Texture2D"
+  ],
+  "CustomSerializationFlags": "None",
+  "UseSeparateBulkDataFiles": true,
+  "IsUnversioned": true,
+  "FileVersionLicenseeUE": 0,
+  "ObjectVersion": "VER_UE4_CORRECT_LICENSEE_FLAG",
+  "ObjectVersionUE5": "UNKNOWN",
+  "CustomVersionContainer": [
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{375EC13C-06E4-48FB-B500-84F0262A717E}",
+      "FriendlyName": "FCoreObjectVersion",
+      "Version": 4,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{E4B068ED-F494-42E9-A231-DA0B2E46BB41}",
+      "FriendlyName": "FEditorObjectVersion",
+      "Version": 40,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{CFFC743F-43B0-4480-9391-14DF171D2073}",
+      "FriendlyName": "FFrameworkObjectVersion",
+      "Version": 37,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{7B5AE74C-D270-4C10-A958-57980B212A5A}",
+      "FriendlyName": "FSequencerObjectVersion",
+      "Version": 13,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{29E575DD-E0A3-4627-9D10-D276232CDCEA}",
+      "FriendlyName": "FAnimPhysObjectVersion",
+      "Version": 17,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{601D1886-AC64-4F84-AA16-D3DE0DEAC7D6}",
+      "FriendlyName": "FFortniteMainBranchObjectVersion",
+      "Version": 47,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC}",
+      "FriendlyName": "FNiagaraObjectVersion",
+      "Version": 1,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{717F9EE7-E9B0-493A-88B3-91321B388107}",
+      "FriendlyName": "FAssetRegistryVersion",
+      "Version": 17,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{9C54D522-A826-4FBE-9421-074661B482D0}",
+      "FriendlyName": "FReleaseObjectVersion",
+      "Version": 43,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{E7086368-6B23-4C58-8439-1B7016265E91}",
+      "FriendlyName": "FFortniteReleaseBranchCustomObjectVersion",
+      "Version": 1,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{D89B5E42-24BD-4D46-8412-ACA8DF641779}",
+      "FriendlyName": "FUE5ReleaseStreamObjectVersion",
+      "Version": 0,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{FCF57AFA-5076-4283-B9A9-E658FFA02D32}",
+      "FriendlyName": "FNiagaraCustomVersion",
+      "Version": 68,
+      "IsSerialized": false
+    }
+  ],
+  "SoftObjectPathList": null,
+  "GatherableTextData": null,
+  "Exports": [
+    {
+      "$type": "UAssetAPI.ExportTypes.NormalExport, UAssetAPI",
+      "Data": [
+        {
+          "$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI",
+          "StructType": "IntPoint",
+          "SerializeNone": true,
+          "StructGUID": "{00000000-0000-0000-0000-000000000000}",
+          "SerializationControl": "NoExtension",
+          "Operation": "None",
+          "Name": "ImportedSize",
+          "ArrayIndex": 0,
+          "PropertyGuid": null,
+          "IsZero": false,
+          "PropertyTagFlags": "None",
+          "PropertyTypeName": null,
+          "PropertyTagExtensions": "NoExtension",
+          "Value": [
+            {
+              "$type": "UAssetAPI.PropertyTypes.Structs.IntPointPropertyData, UAssetAPI",
+              "Name": "ImportedSize",
+              "ArrayIndex": 0,
+              "PropertyGuid": null,
+              "IsZero": false,
+              "PropertyTagFlags": "None",
+              "PropertyTypeName": null,
+              "PropertyTagExtensions": "NoExtension",
+              "Value": [
+                52,
+                61
+              ]
+            }
+          ]
+        },
+        {
+          "$type": "UAssetAPI.PropertyTypes.Structs.StructPropertyData, UAssetAPI",
+          "StructType": "Guid",
+          "SerializeNone": true,
+          "StructGUID": "{00000000-0000-0000-0000-000000000000}",
+          "SerializationControl": "NoExtension",
+          "Operation": "None",
+          "Name": "LightingGuid",
+          "ArrayIndex": 0,
+          "PropertyGuid": null,
+          "IsZero": false,
+          "PropertyTagFlags": "None",
+          "PropertyTypeName": null,
+          "PropertyTagExtensions": "NoExtension",
+          "Value": [
+            {
+              "$type": "UAssetAPI.PropertyTypes.Structs.GuidPropertyData, UAssetAPI",
+              "Name": "LightingGuid",
+              "ArrayIndex": 0,
+              "PropertyGuid": null,
+              "IsZero": false,
+              "PropertyTagFlags": "None",
+              "PropertyTypeName": null,
+              "PropertyTagExtensions": "NoExtension",
+              "Value": "{454A902C-4EB5-041F-7A1A-DC9CF445DB03}"
+            }
+          ]
+        },
+        {
+          "$type": "UAssetAPI.PropertyTypes.Objects.BoolPropertyData, UAssetAPI",
+          "Name": "NeverStream",
+          "ArrayIndex": 0,
+          "PropertyGuid": null,
+          "IsZero": false,
+          "PropertyTagFlags": "None",
+          "PropertyTypeName": null,
+          "PropertyTagExtensions": "NoExtension",
+          "Value": true
+        }
+      ],
+      "ObjectGuid": null,
+      "SerializationControl": "NoExtension",
+      "Operation": "None",
+      "HasLeadingFourNullBytes": false,
+      "ObjectName": "Sci3_CTail",
+      "OuterIndex": 0,
+      "ClassIndex": -1,
+      "SuperIndex": 0,
+      "TemplateIndex": -3,
+      "ObjectFlags": "RF_Public, RF_Standalone",
+      "SerialSize": 12956,
+      "SerialOffset": 784,
+      "ScriptSerializationStartOffset": 0,
+      "ScriptSerializationEndOffset": 0,
+      "bForcedExport": false,
+      "bNotForClient": false,
+      "bNotForServer": false,
+      "PackageGuid": "{00000000-0000-0000-0000-000000000000}",
+      "IsInheritedInstance": false,
+      "PackageFlags": "PKG_None",
+      "bNotAlwaysLoadedForEditorGame": true,
+      "bIsAsset": true,
+      "GeneratePublicHash": false,
+      "SerializationBeforeSerializationDependencies": [],
+      "CreateBeforeSerializationDependencies": [],
+      "SerializationBeforeCreateDependencies": [
+        -1,
+        -3
+      ],
+      "CreateBeforeCreateDependencies": [],
+      "Extras": "AQABAAEAAAANAAAAAAAAAKQ1AAAAAAAANAAAAD0AAAABAAAADAAAAFBGX0I4RzhSOEE4AAAAAAABAAAAAQAAAEgAAACQMQAAkDEAAAQEAAAAAAAA1tbW/9bOzv/W1tb/1tbW/97d3f/n5+f/6Ojn/+fn5//n5+j/4ePh/+Hg4v/k4+P/5uXn/+fn5//o5ef/4eDi/+vq6//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//q7er/6u3q/+nq6f/p6un/6ejo/+jl5f/n6ej/6+rr/+vs6//r7Ov/6+rr/+3r7P/t6+z/5+jn/+fo5//n6Of/5OPj/+Df4P/j4+L/3t3d/9nZ2P/W1tb/1tbW/9bW1v/Wzs7/1tbW/9fW1//e29r/5OPk/+fn5//n5+f/5+fn/+jo5//k4+P/5OXm/+fn5//m5ef/5+fn/+nq6f/r6uv/7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+3u7v/q7er/7evs/+vq6//t7O3/7ezt/+3s7f/t7O3/5+fo/+fn5//n5+f/5ebl/+Li4//j4+L/5OPj/+bj5P/j4eH/19bX/97W1v/W1tb/1tbW/9bW1v/a2dn/3+Dg/+bj5P/n5+f/5+fn/+fn5//s5+f/7evs/+np6v/p5+j/6efo/+fn5//r6uv/7ezt/+3u7v/v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//r6uv/7+/v/+/u7v/v7u7/6+rr/+no6P/n5+j/5+jn/+Xm5f/k5eb/4uHf/+Lh3//j4eH/39/f/9bW1v/e3t7/1tbW/9bOzv/W1tb/4dna/+Pj4v/n5+f/5+fn/+fn5//n5+f/5+fn//Lq6v/u7e3/6+rr/+zq6v/t6+z/7ezr/+vs7f/t7u7/7+7u/+/v7//z8vL/7+/v//Hx8P/v7+//7+/v/+/v7//v7+//7+/v//X09f/v7+//9vb2/+/v7//v7+//7+/v/+/v7//v7+//8O/v/+/w8P/v7+//7+/v/+zq6v/p6Oj/5+fn/+bl5P/n5eP/4+Pi/+Df3f/f39//3+Dg/97e3v/e1tb/3t7e/9bOzv/W1tb/3t7e/97n3v/h4ub/5+Lj/+Hg4v/m5ef/5+fn/+nq6f/v7u7/9/b1//P09P/17+//7+7u/+/v7//v7u7/7ezu/+/u7v/v7+//7+/v/+/v7//v7+//7+/v/+/v7//y7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//9e/v//Hx8P/x7/D/7+/v/+/u7v/u6er/6ejo/+jn5//l5uX/4uHf/+Dg4P/d3d3/4N/d/97e3v/e3t7/3t7e/97e3v/W1tb/3tbW/97e3v/e3t7/3d7e/9fW1//d3d3/39/f/+bl5//r7Ov/7u3t/+/v7//39/f/9/f3/+/v7//39/f/9e/v/+/w8P/x8fD/8fDv/+/v8P/v7/D/7/Dv/+/v7//v7+//7+/v/+/v7//v7+//7+rq/+/u7v/r6un/7+7u/+/u7v/v7u7/7+/w//Dv7//19PX/7+/v/+/u7f/v7u3/6u3q/+rp6v/p6Oj/5uXn/+Tj4//e3d7/2trZ/+Dg4P/f39//3t7e/97e3v/e3t7/1tbW/9bW1v/W1tb/1tbW/9bW1f/a19j/3dnY/+Df3f/g3+D/5+jn/+3u7v/37+//9/f3//f39//v7+//7+/v//f19v/19vX/9vP0//Hx8v/x8O//8fHw/+/v7//v7+//6+zr/+3u7f/r6uv/7ezt/+/u7v/t7u3/7+7u/+/u7v/v7u7/7/Dw//Hv8P/x7/D/7+/v/+/u7v/v7u7/7u3t/+3s7f/r7Ov/6enq/+bl5//i4d//2dnb/9nZ2//b29v/3t7e/97e3v/e3t7/3t7e/9bOzv/Wzs7/1s7O/9fS0f/c2Nf/3dvc/97e3v/e3d3/3tjY/9/g3v/n6Of/7+/v//f39//39/f/9/f3//fx8f/z8vL/8fHw//b19f/39fb/9fT1//P08//y8vH/8fLx//Ly8f/x7/D/8O/v/+/v7//x7/D/8fHw//Ly8f/x8fD/9fT1/+/w8P/39fb/7+/v/+/v7//v7u7/7+zr/+3u7f/t7u7/7e7u/+vq6//j4eH/2dnb/9fW1//e2tn/3t7e/97e3v/e3t7/3tbW/97e3v/W1tb/1tbW/9nW1v/c29v/3d3d/+Df3f/g3Nz/3t3e/97e3v/e3t7/7+fn/+/v7//37+//9/f3//f39//39fb/9PPy//X09f/y8PH/9fT1//X09f/19PX/9fTz//P09P/z9PT/9fTz//P08//z8vT/8e/w//Xv7//x7/D/7+/v//f39//37+//7+/v//Dv7//v7+//7+7u/+/u7v/t7O3/6+zr/+fm5f/d29z/29za/9fW1//Y2Nn/3t3e/97e3f/e3d3/2trZ/9HR0f/W1tb/3d3e/93b3P/d3d3/3d3e/97e3f/e3d7/3t7e/97e3v/g3t//5+fn/+fv5//v7+//7+/v//Dv7//39/f/9vTz//b19f/29fX/9/X2//Xy8f/x7/D/7+/v/+/v7//v7+//7/Dw/+/v8P/w7+//7+/v/+/v7//v7+//7+/v/+/v7//37+//9/f3//f39//17+//7+/v/+/u7v/t7O7/6ejo/+Ph4f/e3dv/2drZ/9fW1//Y2Nn/29nb/+De3//e3t3/29vb/9rZ2f/T09P/1tbW/97a2f/b293/3dvc/93b3P/d3d7/2dnb/93d3f/g4OD/5uHg/+fn5//v7+//5+fn/+/v7//v7+//8fHw//f19v/39vX/9/X2//f19v/39fb/9fT1//Lw8f/x7/D/7/Dw/+/v8P/v7+//6unq/+/p6P/w7e3/8O3t//Xv7//29PP/9/X2//f19v/19vX/7+7u/+3u7f/r6en/6OXn/+Tg4//b293/1tXV/9bW1f/X0tH/3t3b/+Dg4P/g4OD/3d3e/93d3f/a2dn/0dHR/9bW1v/Z2dj/29nb/9jY2f/Y2Nn/3dnc/+Ph4f/j4+L/5uPk/+fo5//n5+f/7+fn/+fn5//n5+f/5+fn/+/n5//w7+//8vDx//f19v/29vb/9vb2//f19v/39/f/9vb2//b29v/29fX/9/X2//f19v/39fb/9/f3//f39//39/f/9/f3//f39//39fb/8u/v/+3u7v/t7Ov/6+rr/+bl5//k4+T/5+fe/93e3f/g3eD/3+De/+Lg4v/k4+P/4ODg/+Df4P/e3t7/29vb/87Ozv/e1tb/19bX/9fS0f/Y2Nn/4ODg/+fi4//n5uX/7Ofo/+jo5//s5+f/7+/v/+/v7//n5+f/5+fn/+fe3v/n5+f/5+jn/+/u7f/v8PD/8vDx//Py9P/29fX/9/X2//f19v/19PX/9/X2//f39//29fX/9/X2//b08//19PX/9fT1//P09P/z8vT/8fHw//Dv7//v7u7/7+7t/+fp6P/v7/D/7+fn/+/u7v/n5+f/5eXi/+Tj4//j5OX/4+Tl/+Li4//e3t7/3t7e/93b3P/T09P/2dbW/9bQzv/a19j/5uHf/+bl5//q5+f/6+jn/+7t7f/v5+f/7+7u/+/v7//v7+//7+/v/+/v7//n5+f/5+fn/+fv5//v7u7/7+/v/+/v7//v7/D/7+/w/+/w8P/w7+//7+/v//Dv7//x8O//8vDx//Xw7//19PP/8/Ly//Xw8v/y8PH/8vDx//Xy8f/19vX/8vDx//Px8v/y8PH/8O/v//b29v/v7/D/7+/v/+fm5f/m5ef/6efl/+bj5P/j4eH/39/f/97d3v/d3d3/1dXV/9fW1//d29n/3dvc/+bl5P/p5+j/7unq/+3s6//n7+f/7+/v/+/n5//v7+//9+/v//f39//37+//9/f3/+/v7//v5+f/7+fn/+/v7//v7+//9+/v/+/v7//37+//8O/v//Hw7//w7+//7+/v/+/v7//o7+j/8O/v//X19v/v8O//9vb2//fx8v/39/f/9fTz//X19v/49/f/9/j3//f49//5+Pj/9/f3/+/u7v/r6uv/6unq/+nn6P/m4+T/4uLj/+De3//e3t7/3dvc/9fW1//T09P/29nb/+Th4f/n5+j/7enr/+/u7v/v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//9/f3//f29f/v8O//7+/v/+/n5//n5+f/7+/v/+/v7//39/f/9fT1//Hx8P/y8PH/8vDx/+/v7//v7+//7+/v/+/v7//v7+//7+/v//j39//3+Pf/+Pf3//j39//5+Pj/+fj4//v6+f/49/f/+Pb1//Xy8f/y8PH/7evs/+3s7f/r6uv/6OXn/+Lh3//f4N7/3t7e/93d3f/a2tn/09PT/+Pj4v/n5+f/6ejo/+/u7v/v7+//7+/v/+/v7//v7+//7+fn/+/v7//v7+//7+/v//X09f/39/f/9vb2//f39//v7+//7+/v/+fn5//v7+//7+/v//Hx8P/x7/D/8/Ly//P09P/08PH/9fTz//X29f/19vX/9/X2///39//49vb/+Pf3//n4+P/6+Pr/+fj4//r4+v/59/j/9/f3//f39//19PX/9PDx//Dt8P/w7e3/7+zr/+rn5//i4uP/3+De/97e3v/e3d3/29za/9TU0//n5uX/6OXn/+3s7f/v7+//7+/v/+/v7//37+//9/f3/+/v7//v7+//7+/v/+/v7//37/D/9/f3//f19v/39vX/9/f3//fv7//v7+//5+fn/+vq6//v7u7/8O7u//Hv8P/z9PP/9fX2//X09f/29fX/+Pb1//n5+v/3/Pz/+vz8//r3+P/59/j/9/f4//r3+P/39/j//Pf3//f39//49vb/9/b1//Py9P/x7/D/8O/v/+/u7v/o5ef/5ODj/+Hg4v/f39//3t3e/9vb2//U1NP/5OXm/+np6v/v7u7/7+/v/+/v7//39/f/9/f3//f39//v7+//7+/v/+/n5//v7+//7+/v//f19v/39fb/9/X2//f39//39/f/9+/w/+/v7//n5+f/6efo/+zo6P/u7e3/8O/v//Px8v/18/T/9vP0//X09f/49vb/+Pb2//f39//39fb/9/X2//f39//19fb/9vb2//f39////v3//Pn5//f29f/z8vT/8/Ly//Py8v/v7u3/6ejo/+bl5//j4+L/4N/g/97d3f/c29v/1NTT/+fl4//o6Of/7+7u//fv7//39fb/9/f3//f39//39/f/9/f3/+/v7//v7+//7+/v/+/v7//v8PD/9vLz//f39//39/f//f3+//f39//39/f/9+/v/+/u7v/n7+f/5+jn/+/u7v/v7+//7+/v/+/v8P/y8PH/8/Ly//b08//29PP/9fb1//b19f/29vb/9/f3//f39//6+fn/+vj6//r4+v/39/f/9/X2//Xz9P/18PL/7e7u/+rp6v/p5+j/5OPj/+Dg4P/e3t7/2trZ/9PT0//n5uX/7ezr/+/v7//39fb/9/f3//f39///9/f/9/f3//f39//v7+//9/f3/+/v7//v7+//8O/v/+/w7//19PX/9/f3//f39//6/Pz/+ff4//f39//39/f/7/Dw/+/v7//v6ej/7+/v/+/v7//w7+//7+/v/+/v8P/v8PD/7/Dw/+/v7//x8fL/9/Hx//n4+P/5+Pj/+vj6//v6+v/6+Pr/+ff4//v39//19PX/8vDx/+7t7f/v7Ov/6+rr/+Tj4//g4OD/3t7e/93b3P/T09P/6ufn/+3u7f/v7+//9/f3//f39//39/f////////////3+Pf/9/f3//f39//37+//7+/v/+/v7//v7+//7+/v//b29v/39/f/9/f3//f49//89/f/9/f3//f39//37/D/8fHw//Dv7//v7+//7+/v/+/v7//v7+//9+/v//Hv8P/18O//8/Hy//f39//5+Pj/+fr6//v6+v/8+/v/+vj6//z3+v/6+Pr/9vX1//Hx8P/x7/D/8e7t/+3p6//m4+T/4N/g/97e3v/e3d3/1tbW/+rq5//v7u7/9+/v//f39//39/f///////f39////////f7+//n6+f/39/f/9/f3//f39//v7+//7+/v/+/v7//v7+//8/Hy//f39//39/f/9/f3//f39//39/j/9/f3//j39//39fb/7/Dw/+/v7//x7/D/8u/v//Lw8f/39fb/9/X2//b29v/3+Pf/+vn5//38+//9+/z//Pv7//z6+f/89/r/+/r5//b29v/18vH/8/T0//Hv8P/r6uv/5OPj/+Dg4P/e3t7/3t7e/+Dc3P/r6uv/7u3t//b29v/39/f/+f79///39//////////////////+/f3/+f79//f39//39/f/9/f3//fv7//v7+//7+/v/+/v7//y8PH/9fb1//f19v/39fb/+fj4//f8/P/49/f/+Pf3//j29v/49vb/+Pb1//f29f/39/f/9/f3//f49//39/f/+fj4//38+//+/fv//fv8//37/P/9/Pv/+/r6//r5+f/69/j/+PX1//X09f/y7/D/7Orq/+jl5f/h4OL/3t7e/93e3v/e3t3/6+rp/+3s7f/w7u7/9/f3///39/////////////////////////////3+/v/79/f/9/f3//f39//39/f/9+/v/+/v7//v7+//7+/v/+/v7//x8fD/9vX1//f39//29vb/9/f4//f39//39/f//Pf3//f39//39/f/9/f3//f39//39/f/9/f4///5+P/8+/v//v37//39/P/+/f3//fv8//37/P/7+vr/+fj4//n3+P/19vX/8u/w/+zq6v/o5ef/4N/g/97e3v/d3t7/597e/+vq6f/u7e3/9fDv//f39/////////////////////////v7///////8+/v/+fr6//f39//39/f/9/f3//f39//v7+//7+/v/+/n5//v7+//7+/v//Hv8P/18PL/9vX1//X09f/49vb/9vb2//f19v/49/f/9/f3//f39//37+//9/f3//f39//49vb//Pv7//3+/f/+/f3//v39//79/f/9/Pv//Pr5//r3+P/69/j/9/X2//Lv8P/v6ur/6ufn/+Ph4f/e3t7/4t7f/97e3v/t6un/7+7u//f29f/39/f///3+///////////////////9/v///f7///////r8/P/39/f/9/f3//f39//39/f/9+/w//Hv8P/v7+//7+/v//Xv7//w7+//8/Hy//Xw8v/19PX/9vX1//X09f/z9PT/8/Tz//X08//x7/D/8fDv//fv8P/39/f/+fj4//z7+//+/f3//f7+//79/f/9+/z//Pv7//v6+f/6+Pr/+ff4//f19v/y8PH/8O3t/+zn5//i4uD/4N7f/97e3v/n3t7/7Orq//Du7v/29vb/9/f3//39/P/////////////9/v///f7///3+///////9/v3/+/f3//f39//39/f/9/f3//f19v/39fb/7/Dw/+/v7//v7+//8O/v//Dv7//z8vL/9/Hx//Xw8v/28vP/9vLx//Tz8v/z8vL/8vDx//Hx8v/49vX/+fj4//v6+v/9+/z//v39//3+/v///f7//fv8//v6+v/7+vr/+vf4//j29v/39/f/9vP0//Lv8P/s5+f/4uHf/97e3v/g3t//3t7e/+/q6v/v8O//9/X2//f39//9+/z///3+//3+/v///////f7+/////////////f7+//n4+P/39/f/9/f3//f39//39/f/9/X2//X19v/37/D/7+/v/+/v7//x7/D/7+/v//Ly8f/y8PH/9fP0//X19v/28vP/9fTz//Xz9P/28/T/9/f3//r4+v/9+/z//fz7//79/f///////v39//37/P/8+/v/+/r6//n3+P/79/f/9/f3//b19f/17+//7Ojo/+Ph4f/g3t//3t7e/97e3v/v7u7/8e/w//b19f/5+Pj//f38///9/v/9/v7///79///9/v///f7////////7+//9/v7/9/f3//f39//39/f/9/X2//f39//28/T/8e/w/+/v8P/37+//7+/v//Dv7//x7/D/9PPy//Px8v/y8PH/9PPy//Py9P/18/T/9fT1//j29v/8+/v//fz7//39/P///f7////////+/f//+/v//fv8//r4+v/79/f/+Pf3//f39//29fX/8u/v/+vo5//i4OL/4N7f/97e3v/e3t7/8O7u//Xw8v/49vb/+fr5//z6+f///f7//f7+//79+//+/f3//f7+/////////f7//f79//j39//39/f/9/f3//f39//39/f/9fb1//X09f/x7/D/9/X2//Dv7//y8PH/8vDx//Hv8P/z8fL/8/Hy//Ly8f/08/L/9vP0//f19v/6+fn//fz7//79/f////////3+///9/v//+fj///3+//37/P/9+/z/+ff4//n3+P/39/f/+PX1//Lt7v/p5+j/5ODj/+Xe3v/n3t7/3t7e//Dv7//29fX/+Pf3//z6+f/5/v3///v7//3+/v///v3///79//3+/v///f7///////3+/v//9/f/+Pf3//f39//39/f/9/f3//X19v/x8vH/9fTz//Ly8f/38fH/8vDx//P08//y8PH/8/Hy//Px8v/z9PP/9fP0//bz9P/49vb/+/r6//37/P///f7////////5+P////////////39/v/5+Pj///f3//f8/P/69/j/9/f3//f29f/y7e7/7Ojo/+bj5P/j3+D/597e/97e3v/v7+//9vTz//f39//5+vr/+fj4///7+//9/f7///3+///7+//9/v3///3+///////9/v7/+ff4//f39//39/f/9/f3//f39//39/f/9vX1//Py9P/19PP/9fLx//Py8v/y8PH/8/Ly//Px8v/z8vL/8/Tz//X09f/29fX/+fr5//v6+v/7+vr/+fj4//f49///9/f/+f79///39//49/f///f3//n+/f//9/f/9/f4//f39//39vX/8u/v/+/s6//o5ef/5+Lg/+bh3//e3t7/8u/w//bz9P/39/f/9/j3//z6+f/9+/z//f38///9/v/+/f3//v39///9/v//+/v///////f3+P//9/f/9/f3//f39//39/f/9/f3//Xx9P/18/T/8/Tz//Px8v/y8vH/8/Ly//Xy8f/z8vL/8/Tz//Xz9P/19PX/+fj4//n6+f/5+Pj/+fr5///9/v//////+f79///39//39/f/9/f3///////39/f/9/f3//f39//39/f/9vX1//Lw8f/w7e3/6ePk/+fi4P/j3+b/5+fe//Hv8P/39fb/9/X2//n4+P/6/Pz//vj7//38+///+/v//f3+///7+//9/v3///3+///////9/fz/9/f3//f8/P/39/f/9vb2//f19v/29fX/9fP0//Py8v/z8fL/8/Ly//X09f/18/T/9vLz//Xx9P/18/T/9fb1//b19f/59/j/+Pf3//f39//39/f//Pn5//n3+P/39/f///f3//f39//39/f/9/f3//f39//39/f/9/X2//b19f/18vH/7/Dv/+nn6P/o4uL/5uHg/97e3v/x8O//9/X2//f39//3+Pf//vj7//z5+//6+fn//Pn7//3+/f/6/Pz//fz7//39/v//+/v//f79//n4+P/3+Pf/9/j3//f39//29vb/9vTz//Tz8v/08/L/9fTz//X09f/z8vL/9fT1//bz9P/z8vL/8/Hy//Lw8f/49/f/9/f3//f39//39/f//Pf3//r5+f/89/f/9/f3//f39//39/f/9/f3//f39///9/f/9/f3//f39//29PP/9PDx//Hw7//r6en/6OTj/+bj5P/n3t7/8vDx//f19v/39/f/9/j3///5+P/8+fn/+/r5//r8/P/8+vn/+fr5//37/P/9+/z//v39//z7+//39/f/9/f3//f39//39fb/9/X2//X09f/18/T/9PPy//Tz8v/x8vH/9vb2//X19v/x8fD/9/b1//f39//39/f/9+/v//fv7//39/f///f3//j39//5+Pf/+/f3//j39//39/f//Pf3//f39///9/f/9/f3//f39//39/f/9vTz//by8//w7fD/6+np/+jl5f/m4eD/3t7e//Tw8f/39fb/9/X2//f39//89/r//Pr5//z5+f/8+fv//Pv7//r8/P/8+/v//Pv7//v6+v/6+Pr/9/j3//j39//39fb/9vb2//f39//29vb/9vP0//Py9P/z9PT/9vX1//f19v/38fH/+PX1//f19v/18/T/9/f3//f39//39/f/9/f3//f39//39/f/+vf4//j29v/39/f/9/f3//j39//49/f/9/f3//f39//39/f/9/f3//j19f/28/T/8e/w/+rp6v/o5ef/5OHh/+bl5//08PH/9/b1//f19v/3+Pf/+fj3//v39//69/j//Pn5//n5+v/5+vn//Pv7//z6+f/7+vn/+fj4//f39//39/f/9/X2//f19v/39fb/9fX2//X09f/z8vT/8/L0//Px8v/29vb/9/f3//f29f/39fb/9vb2//fv7//39/f/9/f3//f39//39/f/9/f3//n3+P/59/j/9/f3//f39//49/f/+vf4//f39//39/f/9/f3//f39//39fb/9vP0//Dv7//r6un/6OXn/+fi4//g3t//9fLx//b19f/39fb/+Pb2//n3+P/5+Pf/+ff4//r3+P/6+fn//Pf3//v6+f/7+vr//Pn7//j39//39/f/9/f3//bz9P/28/T/8/T0//X09f/19PX/8/T0//Py8v/19fb/9+/w//f39//39/f/9/b1//f19v/39/f/9/f3//f39//39/f/9/f3//f39//49vb/+Pb2//f39//39/f/+ff4//j39//39/f/+/f3//j39//39/f/9/X2//X09f/w7+//7evs/+fn5//n5uX/5uXn//fx8f/28/T/9vX1//j29v/49/f/9/f4//j39//59/j/+ff4//n4+P/5+Pj//Pn5//n5+v/3+Pf/9/f3//b29v/y8PH/9vP0//P08//z9PT/8/T0//P08//z9PP/9fP0/+/w7//39/f/9/f3//f19v/39fb/9/f3//f39//39/f/9/f3//f39//38fL/9/f3//j29v/39/f/9/f3//f39//39/f/9/f3//n3+P/39/f/9/f3//f19v/19PX/8e/w/+3s7f/n5+f/6OXl/+bh3//38fH/9vTz//bz9P/49/f/+Pf3//j39//39/f/+ff4//n3+P/89/f/9/z8//n4+P/8+fn/9/f3//f39//29vb/9PDx//X09f/x8fL/8/L0//Py9P/z9PP/8/Ly//X08//x7/D/9/f3//f39//39fb/9/X2//f39//39/f/+Pf3//f39//39/f/9/f3//f19v/39fb/9/Hy//f39//39/f/9/f3//f39//49/f/+/f3//f19v/39/f/9fT1//Hw7//t7O3/5+fn/+fl4//h4ub/9vLx//by8f/29PP/9/X2//f39//49/f/9/f3//j39//49/f/+vf4//f39//89/f/+vn5//j39//29vb/9fT1//Tw8f/18fT/8fHw//Tz8v/z8vT/8/T0//P08//z8vL/9fDv//f39//39/f/9/b1//f19v/39/f/+Pf3//j39//39/f/9/f3//fv7//38fL/9vX1//f19v/39/f/9/X2//f39//39/f/+Pf3//j39//39/f/9/f3//b19f/y8O//7ezt/+fn5//n5+f/5+fe//Xw8v/38fH/9vTz//b08//39/f/9/f3//f19v/39/f/9/f3//f39//49/f/+Pf3//n4+P/39/f/9/f3//f19v/18fT/9fH0//Hv8P/x8vH/8/Ly//P08//z8vL/8/Tz//Hv8P/37+//9/X2//f19v/29vb/9/f3//j29v/69/j/9/f3//f39//39fb/8/T0//b08//39fb/9/Tw//f39//39/f/9/f3//j39//39/f/9/f3//f39//29fX/8vDx/+3s7f/n5+f/5+bl/+fn5//18vH/9fLx//Py8v/18vH/9/f3//f39//39fb/9vb2//f39//39/f/9/f3//j39//49/f/9/f3//b29v/19PX/9fDy//Py8v/x7/D/8vDx//Px8v/z8vL/8vLx//Dv7//v7/D/9+/v//f19v/29fX/9vb2//f39//39/f/+Pf3//f39//39/f/9fDv//Py8v/29PP/9/X2//f19v/39/f/9/b1//f39//39/f/9/f3//f39//39/f/9vX1//Py8v/t7Ov/5+fn/+fn5//n5eP/9fLx//Xw8v/18vH/9vP0//Hx8P/39/f/9vP0//b29v/38fL/9/f3//f39//39/f/9/j3//f3+P/29vb/9fP0//Py8v/z8vL/8e/w//Lv8P/y8PH/8/Ly//Hx8P/18O//7+/v//f39//39vX/9vP0//f19v/39/f/9/f3//j39//39/f/9/f3//Xw7//z8vL/9PPy//f19v/39/f/9/X2//f19v/39fb/9/f3//f39//39/f/9/f3//f29f/z8vT/7ezr/+fn6P/n5+f/5+Pn//Px8v/18vH/8/Hy//Py8v/39/f/7/Dw//f29f/x8fD/9/f3//fv7//39/f/9/f3//f39//49/f/9/f3//Tz8v/z9PP/8/Hy//Dv7//v7+//8O/v//Lw8f/v8PD/7+/v/+/v7//v7+//7+/v//X09f/28/T/9vb2//f39//39/f/9/f3//f39//x8O//8vDx//Tz8v/38fL/9/X2//f29f/29PP/9/f3//f39//39/f/9/f3//f39//39fb/9fH0/+vq6//o5+f/6OXn/+fn5//z8fL/8vDx//Tw8f/x8fD/7+/v//fv7//v7+//9/f3/+/v7//39/f/9+/v//f39//39/f/9/f3//f39//29fX/8/Ly//Lw8f/v7/D/9e/v//Dv7//y8PH/7/Dw/+/v7//v7+//9+/v/+/v7//19PX/9fTz//f19v/39fb/9/X2//f39//39fb/8O/v//Py8v/18O//9vP0//fx8v/29fX/9/X2//b29v/39vX/9/f3//f39//39/f/9/X2//Xz9P/t6ev/5+fn/+jn5//n5uX/8vDx//Tw8f/y8PH/8e/w//f39//v7+//9/f3//fv7//v7+//9/f3//fv7//39/f/9/f3//f39//39/f/9vX1//Py8v/y8PH/7+/v/+/v7//v7+//8fDv/+/w8P/v7u7/7+/v/+/v7//w7+//9fT1//Ly8f/19PX/9vP0//f19v/39/f/9/Hx//Xw7//x7/D/9fT1//fx8f/29fX/9vX1//b08//29fX/9/X2//f39//39/f/9/f3//f19v/19PP/6+rp/+nn6P/o5+f/5+bl//Lw8f/08PH/8vLx//Hv8P/v7+//7+/v/+/v7//v7+//7+/v//fv7//39/f/8O/v//f39//39/f/9/f3//by8//x8vH/8vDx//Dv7//v7+//8O/v//Dv7//v7+//7enr/+3s7v/v7u7/9+/v//Py8v/z8vT/9fb1//bz9P/19PX/9vX1//f19v/x8fD/8u/v//Hx8P/39fb/9PPy//b08//28/T/9fT1//j19f/29PP/9/f3//f39//39fb/9vTz/+vq6//p5+j/6Ojn/+fi4//y7+//9e/v/+/v7//w7+//7/Dv//fv7//v7+//7+/v/+/v7//v7+//7+/v//fv7//39/f/9/f3//f39//29fX/8fLy//Lw8f/x7/D/7+/v//Ds6v/v8O//7+7u/+7t7f/v7Ov/7+7u//Dv7//18O//8fHy//Tz8v/28/T/9vP0//X09f/38fH/9PPy/+/v7//39fb/8fHw//bz9P/08/L/9vLz//X08//18/T/9vP0//f39//39fb/9/X2//Xy8f/t6+z/6ejo/+jn5//n5+f/8e/w//Lv8P/v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//39/f/9+/w//f39//39/f/9vP0//Py8v/y8PH/7+/v/+/v7//v7u7/7+7u/+/s6//t6+z/6efo/+/p6P/v7+//9vX1//Hx8P/z8fL/9PPy//Xx9P/18/T/9+/w//Hv8P/v7+//7/Dv//Hx8P/28/T/9fLx//X08//z8vL/9fT1//by8//39fb/9/X2//b19f/08/L/7evs/+no6P/o5+f/5+fn//Lv7//x7/D/7+/v/+/v7//v7+//7+/v/+/n5//v7+//7+/v//fv7//v7+//7+/v//f39//39/f/9/f3//j19f/18/T/8vDx//Dv7//v7u7/7+7u/+3s6//u7e3/6ejo/+zn5//v7u7/7+/v/+/v8P/x8fD/8fHy//Py8v/08/L/8/L0//Tw8f/y8PH/8e/w//Xy8f/18/T/8/Ly//Xy8f/y8vH/8vLx//Hx8v/18vH/9fT1//X08//29fX/9PPy/+3s7f/p6un/6Ofn/+fn5//y7+//8e/w//fv7//v7+//7+fn/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//37+//9/f3//f39//39/f/9fP0//Py8v/x7/D/7+7u/+/s6//u7e3/7+zr/+3s6//p5+j/7u3t/+/v7//v7+//8fDv//Px8v/y8vH/8/Ly//Xw8v/z8fL/8vDv//Hv8P/y8PH/8vDx//Xy8f/18/T/8vDx//Hx8P/x7/D/9fT1//bz9P/19vX/9fTz//X08//u7e3/6+rp/+jo5//n5+f/9fDv/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//39/f/7+/v//f39//39/f/9/f3//X19v/z8vL/8e/w/+/v7//v7u7/6+rr/+3t6P/v7Ov/6Ofn/+/n5//v7+//7+/v//Dv7//v8PD/8vDx//Py8v/08PH/9PPy//Lv8P/x7/D/9fDv/+/v7//v7+//8O/v/+/w8P/x7/D/8e/w//Hx8v/08/L/9fT1//X08//19PP/7/Dw/+vq6//o5+f/5+fn//Lv7//w7+//7+/v/+fv5//v5+f/7+/v/+/n5//v7+//7+/v/+/v7//v7+//7+/v/+/v7//39/f/9/f3//f39//29vb/8/L0//Lw8f/v7u7/7+7u/+/u7v/t7Ov/7erp/+jo5//n5+f/7+/v/+/v8P/17+//8O3w//Lw8f/z8fL/9PDx//Lw8f/x7/D/8e/w//X19v/v7+//9+/v/+/v7//w7+//8O7u//Lw7//x7/D/8/L0//Py8v/28/T/9vLz//Hv8P/t7O3/6Ojn/+fn5//y7+//8e/w/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//9+/v/+/v7//37+//9/f3//f39//39/f/9/f3//Px8v/y8PH/7+/v/+/u7v/v7u7/7unq/+vq6f/q5+f/5+fn/+/n5//v8O//7+/v/+/u7v/x7/D/8/Hy//Lw8f/x7/D/8e/w//Xv7//v7u7/7+/v/+/v7//v7+//7+7u/+/u7v/v7u7/8O/v//Hw7//z9PT/9PPy//by8//v7/D/7+7u/+no6P/n5+f/9e/v//Dv7//v7+//7+fn/+fn5//v7+//7+/v/+/v7//v5+f/7+/v/+/v7//v7+//9/f3/+/v7//39/f/9/f3//f39//18PL/8/Ly/+/u7v/v7+//7+/v/+7p6v/q7er/6+jn/+jn5//v7+//5+/n/+/v7//v7u7/7+/v//Hx8P/08PH/8vDx//Hv8P/y7+//7+/v//fv7//v7+//7+/v/+/n5//t7u7/7+zr/+/v8P/y7+//8fHw//Tz8v/18vH/8u/w/+/u7v/r6en/5+fn//Lv7//37+//7+/v/+/v7//v5+f/7+/v/+/v7//v5+f/7+/v/+/v7//v7+//7+/v/+/v7//39/f/9/f3//f39//39/f/9vb2//Dv7//v7u7/7+zr/+/u7v/v7u7/7Orq/+no6P/o5+f/5+fn/+/v7//v7+//7+7u//Hv8P/x8fL/8vDx//Px8v/w7+//8u/v/+/u7v/v7+//7+/v/+/v7//v7+//5+fn/+/u7v/v7+//8u/w//Lw8f/x8vH/9/Hy//Hv8P/v7+//6+np/+jn5//17+//7+/v/+/v7//v7+//5+fn/+/v7//n7+f/7+/v/+/n5//v7+//7+/v/+/v7//37+//7+/v//f39//39/f/9/f3//f39//37+//7+7u/+/u7v/v7+//6efo/+3s7f/p6un/5+fn/+/n5//n5+f/7+7u//Dt7f/v7+//8fDv//Lw7//x7/D/7/Dv//Lv7//v7u7/7+/v/+/v7//v7+//7+fn/+/n5//v5+f/7+/v//Lv7//w7+//8/Ly//Xw7//x7/D/7+/v/+3s7f/n5+f/9/X2/+/v7//v7+//5+fn/+/v7//v5+f/7+/v/+/n5//v7+//5+/n/+/n5//v7+//9/f3/+/v7//37+//9/f3//f39//39/f/7+/v/+/u7v/v7+//5+fn/+/n5//p5+j/5+jn/+fn5//n5+f/5+fn/+/u7v/v7u7/7+/w/+/v8P/y8O//8e/w//Hv8P/x7/D/8O7u/+/n5//v7+//5+fn/+/v7//n7+f/5+fn/+/v7//v7+//8O/v//bz9P/y8PH/7+/w/+/v7//v6ej/5+fn/zQAAAA9AAAAAQAAAAAAAAALAAAAAAAAAA=="
+    }
+  ],
+  "SearchableNames": null,
+  "ImportTypeHierarchies": null,
+  "MetaData": null,
+  "Thumbnails": null,
+  "WorldTileInfo": null,
+  "AppendedNullBytes": 0,
+  "OtherAssetsFailedToAccess": [],
+  "LegacyFileVersion": -7,
+  "DataResourceVersion": "Invalid",
+  "DataResources": null,
+  "UsesEventDrivenLoader": true,
+  "WillSerializeNameHashes": true,
+  "Imports": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Texture2D",
+      "OuterIndex": -2,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "/Script/Engine",
+      "OuterIndex": 0,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__Texture2D",
+      "OuterIndex": -2,
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "Texture2D",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "DependsMap": [
+    []
+  ],
+  "SoftPackageReferenceList": null,
+  "AssetRegistryDependencyDataOffset": -1,
+  "AssetRegistryRecords": [],
+  "ImportBits": null,
+  "SoftPackageBits": null,
+  "ExtraPackageDependencies": null,
+  "BulkData": null,
+  "AdditionalFiles": "wYMqng==",
+  "Trailer": null,
+  "ValorantGarbageData": null,
+  "SeaOfThievesGarbageData": null,
+  "Generations": [
+    {
+      "$type": "UAssetAPI.FGenerationInfo, UAssetAPI",
+      "ExportCount": 1,
+      "NameCount": 17
+    }
+  ],
+  "PackageGuid": "{00418E99-40E0-58B4-9027-AA96C27B9008}",
+  "PersistentGuid": "{00000000-0000-0000-0000-000000000000}",
+  "RecordedEngineVersion": {
+    "$type": "UAssetAPI.FEngineVersion, UAssetAPI",
+    "Major": 0,
+    "Minor": 0,
+    "Patch": 0,
+    "Changelist": 0,
+    "Branch": null
+  },
+  "RecordedCompatibleWithEngineVersion": {
+    "$type": "UAssetAPI.FEngineVersion, UAssetAPI",
+    "Major": 0,
+    "Minor": 0,
+    "Patch": 0,
+    "Changelist": 0,
+    "Branch": null
+  },
+  "ChunkIDs": [
+    55
+  ],
+  "PackageSource": 1693228427,
+  "FolderName": "None",
+  "LocalizationId": null,
+  "SoftObjectPathsCount": 0,
+  "SoftObjectPathsOffset": 0,
+  "SearchableNamesOffset": 0,
+  "ThumbnailTableOffset": 0,
+  "ImportTypeHierarchiesCount": 0,
+  "ImportTypeHierarchiesOffset": 0,
+  "SavedHash": null,
+  "CompressionFlags": 0,
+  "AdditionalPackagesToCook": [],
+  "NamesReferencedFromExportDataCount": 17,
+  "PayloadTocOffset": -1,
+  "DataResourceOffset": -1,
+  "doWeHaveAssetRegistryData": true,
+  "doWeHaveWorldTileInfo": false,
+  "PackageFlags": "PKG_FilterEditorOnly",
+  "HasUnversionedProperties": false,
+  "IsFilterEditorOnly": true,
+  "IsPreDependencyFormat": true
+}
